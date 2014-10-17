@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yli:home|Door43 (yli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yli|d43-yli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yli/archive/master.zip|d43-yli.zip]]
+
+**Recent Changes**
+{{changes>ns = yli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yli|Ethnologue data]]
+
